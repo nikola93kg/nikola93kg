@@ -53,3 +53,7 @@ function ApplyForAJob() {
   }
 
 export default ApplyForAJob;
+
+![Screenshot_2](https://user-images.githubusercontent.com/53098565/172687156-46431b63-ce4b-441b-84fc-cee7817fd50f.png)
+
+
